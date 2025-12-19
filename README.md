@@ -7,6 +7,11 @@
 
 - 💻 Passionate about competitive programming and solving challenges
 
+<br>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Priyanshu8023&theme=dark&hide_border=false" />
+</p><br/>
+
  
 
 - ## 🚀 Languages & Tools
@@ -38,12 +43,6 @@
 </p>
 
 <br>
-
-<br>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Priyanshu8023&theme=dark&hide_border=false" />
-</p><br/>
-
 
 <!-- <h3 align="left">### 🔗 Let's Connect</h3>
 <p align="left">
