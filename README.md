@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms in C++**
 
 - 💻 Passionate about competitive programming and solving challenges
+<br></br>
 
 <br>
 <p align="center">
