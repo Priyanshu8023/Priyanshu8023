@@ -2,11 +2,11 @@
 <h2 align="center">Full-stack developer and Competitive programmer passionate about modern tech and algorithms.</h2>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Priyanshu8023&label=Profile%20views&color=0e75b6&style=flat" alt="Priyanshu8023" /> </p>-->
-<br>
+<!--<br>
 - 🌱 I’m currently learning **Data Structures and Algorithms in C++**
 
 - 💻 Passionate about competitive programming and solving challenges
-</br> 
+</br> -->
 <!-- <br></br> -->
 
 <!-- <br>
