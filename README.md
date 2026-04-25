@@ -41,7 +41,7 @@
 
 ### Databases & ORM
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,supabase" />
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,redis,supabase" />
 </p>
 
 <br>
