@@ -15,8 +15,7 @@
 </p><br/> -->
 
  
-
-- ## 🚀 Languages & Tools
+## 🚀 Languages & Tools
 
 ### Languages
 <p align="left">
@@ -43,6 +42,8 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,redis,supabase" />
 </p>
+
+---
 
 ### Cloud & DevOps
 <p align="left">
