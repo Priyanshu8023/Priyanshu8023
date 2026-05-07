@@ -33,7 +33,7 @@
 
 ### Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,graphql,go" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
 
 ### Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
 </p>
 
 <br>
