@@ -23,7 +23,7 @@
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,c,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,ruby,c,python" />
 </p>
 
 ---
