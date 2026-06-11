@@ -37,7 +37,7 @@
 
 ### Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,graphql,go" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,rails,go,firebase,graphql" />
 </p>
 
 ---
