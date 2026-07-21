@@ -23,7 +23,7 @@
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,ruby,c,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,go,c,python" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 
 ### Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,rails,go,firebase,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,graphql" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
 
 ### Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions" />
 </p>
 
 <br>
