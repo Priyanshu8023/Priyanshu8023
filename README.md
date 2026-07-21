@@ -23,7 +23,7 @@
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,go,c,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,c,python" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 
 ### Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,graphql,go" />
 </p>
 
 ---
